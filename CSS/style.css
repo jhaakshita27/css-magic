@@ -1,0 +1,22 @@
+hr{
+    background-color: rosybrown;
+    border-style: dotted none none; 
+    /* border-style:top left right;  OR  */
+    border-style: none;
+    border-top-style: dotted;
+    border-color:red;
+    height:0px;
+    width:15%;
+}
+h1{
+color:#66BFBF;
+}
+h3{
+    color:#66BFBF;
+}
+body{
+    background-color: rgb(202, 219, 221);
+}
+.circleimage{
+    border-radius: 100%;
+}
